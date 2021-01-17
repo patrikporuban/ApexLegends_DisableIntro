@@ -1,4 +1,4 @@
-# Apex_DisableIntro
+# ApexLegends_DisableIntro
 
 Game: Apex Legends
 Platform: Origin
